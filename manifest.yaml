@@ -2,7 +2,7 @@ name: youtube-playlist-watch-plan-free
 slug: youtube-playlist-watch-plan-free
 display_name: YouTube播放列表观看计划
 description: 在用户指定的 Easy WebBridge 浏览器中读取一个 YouTube 播放列表与每日可用时间，最多整理十条可见视频为顺序观看草稿，交付时长预算、逐条来源和缺失项。适用于想把课程或系列视频拆成每日计划的场景；遇到私密、受限或未显示时长的资料会如实标记，不猜测、不改动收藏或观看队列。
-version: 1.0.0
+version: 1.0.1
 icon: icon-512.png
 repository: https://github.com/xxjrq/youtube-playlist-watch-plan-free
 license: MIT
